@@ -25,5 +25,3 @@ AGI using PQCT can make ethical, adaptive, and anticipatory decisions, while rem
 ---
 
 
-git clone https://github.com/username/pqct.git
-cd pqct
